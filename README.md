@@ -6,7 +6,7 @@ Coded in **Visual Studio Code**. Built with **Tailwind CSS**.
 
 A simple Tailwind project following a [tutorial by smoljames](https://youtu.be/W-LDhPyv478).
 
-## Reasons you should star the repo!
+## Reasons you should ⭐ this repo!
 
 * I enjoy your support
 * You can learn from the code
