@@ -3,7 +3,7 @@
 Published 1-12-2025
 Coded in **Visual Studio Code**. Built with **Tailwind CSS**.
 
-A simple Tailwind project following a [tutorial by smoljames](https://youtu.be/W-LDhPyv478).
+A simple Tailwind project following a <a href=https://youtu.be/W-LDhPyv478 target="_blank">tutorial by smoljames</a>.
 
 ## Reasons you should star the repo!
 
