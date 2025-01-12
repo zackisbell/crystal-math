@@ -1,6 +1,7 @@
 # Crystal Math
 
 Published 1-12-2025
+
 Coded in **Visual Studio Code**. Built with **Tailwind CSS**.
 
 A simple Tailwind project following a [tutorial by smoljames](https://youtu.be/W-LDhPyv478).
